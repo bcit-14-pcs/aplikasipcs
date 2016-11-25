@@ -1,0 +1,2 @@
+E:\Coba VS 2015\Final Project\PCS\PCS\bin\Debug\PCS.exe.config
+C:\Users\lilis\Documents\Visual Studio 2015\Projects\PCS\PCS\bin\Debug\PCS.exe.config
